@@ -1,11 +1,16 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README would normally document whatever steps are necessary 
+to get theapplication up and running.
+
+This is the alpha-blog repository to follow the 
+Rails Development course on Udemy.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version : ruby 2.1.5p273 
+
+* Rails version : Rails 4.2.4
 
 * System dependencies
 
